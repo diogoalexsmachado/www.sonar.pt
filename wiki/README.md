@@ -52,7 +52,12 @@ Com isto, será redirecionado para a dashboard, onde no menu lateral poderá faz
 
 ![](prtscr3.png)
 
+## -- Adicionar Clientes
+
+
+
 ## -- importação de Ficheiros
+NOTA: É importante ter efetuado os passos anteriores.
 
 Para efetuar a importação é necessário ter um template de importação, para a plataforma saber o que importar.
 
@@ -62,4 +67,28 @@ Defina o template seguindo estes passos:
 
 ![](prtscr4.png)
 
-2.
+2. Deverá criar um novo template a partir do botão adicionar:
+
+![](prtscr5.png)
+
+3. Deverá agora associar toda a informação necessária ao template:
+
+![](prtscr6.png)
+
+4. Guarde as alterações.
+5. Navegue até à importação de ficheiros:
+
+![](prtscr7.png)
+
+6. Selecione o template (A) e o ficheiro (B)
+
+![](prtscr8.png)
+
+7. Caso o ficheiro seja válido e o template esteja correto será redirecionado para a página de verificação de ficheiro, onde deverá associar os nomes aos Destinatários ou criá-los selecionando a caixa Criar Destinatário.
+
+![](prtscr9.png)
+- A - Associar Destinatário caso ele exista
+- B - Criar novo Destinatário
+- C - Informação da guia que irá ser criada-
+
+8. A sua importação foi efetuada com sucesso!
